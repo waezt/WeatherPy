@@ -1,7 +1,7 @@
 # WeatherPy
 A Python based weather application that provides users with real-time weather information and a 24-hour temperature forecast.
 
-#### Video Demo:  <URL HERE>
+#### Video Demo:  [Click Here](https://youtu.be/hITXuD4pDN0)
 #### Description:
 For my CS50P final project, I created WeatherPy, a Python based weather application that provides users with real-time weather information and a 24-hour temperature forecast. The project demonstrates how Python can interact with APIs, process data, and present it in both table and graphical formats. My goal was to build a tool that is both practical and a good opportunity to showcase the programming concepts I had learned throughout the CS50P course.
 
